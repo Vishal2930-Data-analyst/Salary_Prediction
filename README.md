@@ -8,50 +8,50 @@
 
 ## Predict salary based on multiple user attributes
 
-Interactive web interface built using Streamlit
+- Interactive web interface built using Streamlit
 
-Machine learning model trained using Random Forest Regressor
+- Machine learning model trained using Random Forest Regressor
 
-Encoded categorical variables using Label Encoding
+- Encoded categorical variables using Label Encoding
 
-Fast and accurate prediction results
+- Fast and accurate prediction results
 
-Simple and user-friendly UI
+- Simple and user-friendly UI
 
-🧠 Machine Learning Workflow
+## 🧠 Machine Learning Workflow
 
-Data preprocessing and cleaning
+- Data preprocessing and cleaning
 
-Encoding categorical features (Gender, Education Level, Job Title)
+- Encoding categorical features (Gender, Education Level, Job Title)
 
-Training the model using Random Forest Regression
+- Training the model using Random Forest Regression
 
-Saving the trained model using Joblib
+- Saving the trained model using Joblib
 
-Deploying the prediction system with Streamlit
+- Deploying the prediction system with Streamlit
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Scikit-learn
+- Scikit-learn
 
-Joblib
+- Joblib
 
-Streamlit
+- Streamlit
 
-📊 Input Parameters
+## 📊 Input Parameters
 
-The model predicts salary based on the following inputs:
+- The model predicts salary based on the following inputs:
 
-Age
+- Age
 
-Gender
+- Gender
 
-Education Level
+- Education Level
 
-Job Title
+- Job Title
 
-Years of Experience
+- Years of Experience
