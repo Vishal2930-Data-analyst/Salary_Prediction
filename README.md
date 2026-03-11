@@ -55,3 +55,7 @@
 - Job Title
 
 - Years of Experience
+## Run the Streamlit Link
+- https://salaryprediction-vishalborse2930.streamlit.app/
+## 🎯 Project Goal
+The goal of this project is to demonstrate how machine learning can be applied to predict salary trends based on professional and demographic attributes, helping organizations and individuals understand salary expectations in different roles.
