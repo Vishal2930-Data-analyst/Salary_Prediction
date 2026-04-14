@@ -15,7 +15,7 @@ The application is deployed using Streamlit, which provides an interactive web i
 
 - Fast and accurate prediction results
 
-- Simple and user-friendly UI
+- Simple and user-friendly Ui
 
 ## 🧠 Machine Learning Workflow
 
